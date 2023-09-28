@@ -1,6 +1,4 @@
 import streamlit as st
-import extra_streamlit_components as stx
-from geopy import Nominatim
 from streamlit.components.v1 import html
 
 # Define a function to load and run JavaScript code
